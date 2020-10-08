@@ -1,2 +1,5 @@
 # HouseFund
-Housing Provident Fund Management Center
+住房公积金管理中心
+这是学校的时期的JAVA框架学习之后做的的课程设计
+一个房屋公积金管理中心，实现的功能主要是，单位开户和个人开户
+分支任务还有一些关于单位信息和个人账户信息的修改
